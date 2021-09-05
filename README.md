@@ -2,6 +2,13 @@
 - <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> I'm a prefinal year Computer Science Student at IIIT Kota
 - I’m currently spending my time learning advance cpp and giving contests <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" height="35"> 
 -  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>  I make apps using Flutter📱
+
+### Connect with me:
+
+[<img align="left" alt="yogendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yogendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ashuvamp8@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 <br />
 
 ## Languages and Tools:
@@ -22,3 +29,7 @@
 savageclown007/savageclown007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[instagram]: https://www.instagram.com/thesavageclown__/
+[linkedin]: https://www.linkedin.com/in/yogendra-mohan-a5604b196/
+[gmail]: mailto:ashuvamp8@gmail.com
