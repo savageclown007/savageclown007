@@ -1,7 +1,8 @@
 ## Hi there, I’m Yogendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> I'm a prefinal year Computer Science Student at IIIT Kota
-- I’m currently spending my time learning advance cpp and giving contests <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" height="35"> 
--  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>  I make apps using Flutter📱
+- I'm a prefinal year Computer Science Student at IIIT Kota.<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> 
+- I love doing competitive programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="25"> 
+- I make apps using Flutter📱<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>  
+- I’m currently spending my time learning Machine learning and Data Science and giving cp contests <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="25"> 
 
 ### Connect with me:
 
