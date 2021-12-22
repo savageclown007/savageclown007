@@ -9,8 +9,8 @@
 [<img align="left" alt="yogendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yogendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ashuvamp8@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
 <br />
+
 
 ## Languages and Tools:
 
@@ -25,6 +25,10 @@
 
 
 <br />
+<br>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=savageclown007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+<br>
+
 
 <!---
 savageclown007/savageclown007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
