@@ -24,11 +24,23 @@
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
 
-<br />
-<br>
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=savageclown007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+
 <br>
 
+## 📈 GitHub Stats
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savageclown007&theme=vision-friendly-dark&count_private=true&hide=html" alt="Anushka's Most Used Languages" />
+
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=savageclown007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+
+<br>
+
+## 🔥 My Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savageclown007)
+
+
+<br>
 
 <!---
 savageclown007/savageclown007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
