@@ -29,7 +29,7 @@
 
 ## 📈 GitHub Stats
 
-<img align="right" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=savageclown007&theme=vision-friendly-dark&count_private=true&hide=html" alt="Yogendra's Most Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savageclown007&theme=vision-friendly-dark&count_private=true&hide=html" alt="Yogendra's Most Used Languages" />
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=savageclown007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
 
